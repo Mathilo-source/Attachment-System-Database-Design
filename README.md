@@ -63,7 +63,7 @@ The ER diagram is available in the `erd/` directory.
 * *Cornelia Achieng'*
 * *Melchizedek Wevasa*
 * *Daniel Chirunga*
-* *Tabitha Doris *
+* *Tabitha Doris*
 * *Patric Kamau*
 * *Lewis Mugo*
 
