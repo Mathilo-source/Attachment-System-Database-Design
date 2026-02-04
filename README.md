@@ -1,5 +1,4 @@
-# Attachment-System-Database-Design
-# Student Attachment Management System (Database Project)
+# Student Attachment Management System (Database Design Project)
 
 ## 📌 Overview
 This project is a relational database system designed to manage student industrial attachments.
